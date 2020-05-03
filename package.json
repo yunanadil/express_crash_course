@@ -1,0 +1,19 @@
+{
+	"name": "express_crash_course",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"dev": "nodemon main"
+	},
+	"author": "Yunan Adil",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-handlebars": "^4.0.4",
+		"uuid": "^8.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.3"
+	}
+}
